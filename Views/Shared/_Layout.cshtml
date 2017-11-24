@@ -1,0 +1,141 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        .fa {
+            padding: 10px;
+            font-size: 20px;
+            width: 60px;
+            text-align: center;
+            text-decoration: none;
+            margin: 5px 2px;
+        }
+
+            .fa:hover {
+                border-radius:25%;
+            }
+
+        .fa-facebook {
+            background: #3B5998;
+            color: white;
+        }
+
+        .fa-twitter {
+            background: #55ACEE;
+            color: white;
+        }
+
+        .fa-google {
+            background: #dd4b39;
+            color: white;
+        }
+
+        .fa-linkedin {
+            background: #007bb5;
+            color: white;
+        }
+
+        .fa-youtube {
+            background: #bb0000;
+            color: white;
+        }
+
+        .fa-instagram {
+            background: #125688;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top" style="margin-top:20px; margin-left:190px; margin-bottom:20px; margin-right:190px;">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+
+                </button>
+                @Html.ActionLink("HOME", "Index", "Default", new { area = "" }, new { @class = "navbar-brand" })
+                @Html.ActionLink("ABOUT", "About", "Default", new { area = "" }, new { @class = "navbar-brand" })
+                @Html.ActionLink("LOGO", "AddPlayer", "Player", new { area = "" }, new { @class = "navbar-brand" })
+                @Html.ActionLink("TEAM", "Teams", "Player", new { area = "" }, new { @class = "navbar-brand" })
+                @Html.ActionLink("PHOTOS", "Photos", "Player", new { area = "" }, new { @class = "navbar-brand" })
+                @Html.ActionLink("RANKINGS", "Rankings", "Player", new { area = "" }, new { @class = "navbar-brand" })
+                @Html.ActionLink("CONTACT", "ContactUs", "Player", new { area = "" }, new { @class = "navbar-brand" })
+                <div id="google_translate_element" style="margin-top:10px; margin-right:10px;"></div>
+                <script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+                </script>
+                <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+                <a href="https://www.facebook.com/arian.haidary.7" class="fa fa-facebook"></a>
+                <a href="https://twitter.com/Aryan_Haidary" class="fa fa-twitter"></a>
+                <a href="https://plus.google.com/107642682770136687272" class="fa fa-google"></a>
+                <a href="https://www.linkedin.com/in/aryan-haidari-4959b6b4" class="fa fa-linkedin"></a>
+                <a href="https://www.youtube.com/user/Cricketworldmedia" class="fa fa-youtube"></a>
+                <a href="https://www.instagram.com/arianhaidary" class="fa fa-instagram"></a>
+
+
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>

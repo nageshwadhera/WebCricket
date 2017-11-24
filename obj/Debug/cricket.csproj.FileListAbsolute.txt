@@ -1,0 +1,66 @@
+E:\projects\cricket\cricket\obj\Debug\cricket.csprojResolveAssemblyReference.cache
+E:\projects\cricket\cricket\bin\roslyn\csc.exe
+E:\projects\cricket\cricket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\projects\cricket\cricket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\projects\cricket\cricket\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\projects\cricket\cricket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\projects\cricket\cricket\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\projects\cricket\cricket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\projects\cricket\cricket\bin\roslyn\System.Collections.Immutable.dll
+E:\projects\cricket\cricket\bin\roslyn\System.Reflection.Metadata.dll
+E:\projects\cricket\cricket\bin\roslyn\vbc.exe
+E:\projects\cricket\cricket\bin\roslyn\VBCSCompiler.exe
+E:\projects\cricket\cricket\bin\roslyn\VBCSCompiler.exe.config
+E:\projects\cricket\cricket\bin\cricket.dll.config
+E:\projects\cricket\cricket\bin\cricket.dll
+E:\projects\cricket\cricket\bin\cricket.pdb
+E:\projects\cricket\cricket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\projects\cricket\cricket\bin\Microsoft.Web.Infrastructure.dll
+E:\projects\cricket\cricket\bin\System.Web.Helpers.dll
+E:\projects\cricket\cricket\bin\System.Web.Mvc.dll
+E:\projects\cricket\cricket\bin\System.Web.Razor.dll
+E:\projects\cricket\cricket\bin\System.Web.Webpages.Deployment.dll
+E:\projects\cricket\cricket\bin\System.Web.Webpages.dll
+E:\projects\cricket\cricket\bin\System.Web.Webpages.Razor.dll
+E:\projects\cricket\cricket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\projects\cricket\cricket\bin\System.Web.Razor.xml
+E:\projects\cricket\cricket\bin\System.Web.Webpages.xml
+E:\projects\cricket\cricket\bin\System.Web.Webpages.Deployment.xml
+E:\projects\cricket\cricket\bin\System.Web.Webpages.Razor.xml
+E:\projects\cricket\cricket\bin\System.Web.Helpers.xml
+E:\projects\cricket\cricket\bin\System.Web.Mvc.xml
+E:\projects\cricket\cricket\obj\Debug\cricket.dll
+E:\projects\cricket\cricket\obj\Debug\cricket.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\roslyn\csc.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\roslyn\vbc.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\roslyn\VBCSCompiler.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\cricket.dll.config
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\cricket.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\cricket.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\System.Web.Helpers.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\System.Web.Mvc.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\System.Web.Razor.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\System.Web.Webpages.Deployment.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\System.Web.Webpages.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\System.Web.Webpages.Razor.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\System.Web.Razor.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\System.Web.Webpages.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\System.Web.Webpages.Deployment.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\System.Web.Webpages.Razor.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\System.Web.Helpers.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\bin\System.Web.Mvc.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\obj\Debug\cricket.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\obj\Debug\cricket.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\cricket\cricket\obj\Debug\cricket.pdb
